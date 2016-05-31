@@ -1,7 +1,7 @@
 Ellipse emulator
 ================
 
-Small Qt application with generates image with ellipse and random dots about it.
+Small Qt application which generates image with ellipse and random dots about it.
 
 Image generation
 ================
